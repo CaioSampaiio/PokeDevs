@@ -2,6 +2,7 @@ body {
     font-family: "Poppins", sans-serif;
     background-image: url("../imagens/background.png");
     background-size: cover;
+    background-position: center;
 }
 
 body::before {
@@ -77,7 +78,7 @@ main {
     padding: 80px 30px 50px;
     margin-top: -70px;
     border-bottom-left-radius: 8px;
-    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 
 .cartao-pokedev .cartao-informacoes h3 {
